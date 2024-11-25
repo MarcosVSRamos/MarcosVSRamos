@@ -3,6 +3,11 @@
 
   <h1>Sobre o Marcos</h1> 
 
+  <p>
+    <b>Marcos Vinicius Santos Ramos</b> é um jovem apaixonado por <b>tecnologia</b> e em transição para a área de desenvolvimento de software. Atualmente, cursa <b>Full Stack em Java</b> e <b>Inteligência Artificial</b> na <b>EBAC</b>, com planos de iniciar <b>Ciências da Computação</b> em 2025. Com experiência prévia em telecomunicações, onde foi o <b>principal responsável</b> pela gestão e manutenção de mais de 600 equipamentos de internet via rádio, Marcos tem se aprofundado cada vez mais em <b>linguagens e tecnologias de desenvolvimento</b>. Seu interesse por tecnologia é antigo e, após uma trajetória profissional em telecom, desenvolvendo a prática de <b>solução de problemas diariamente e trabalho em aquipe</b>, ele agora se dedica ao aprimoramento de suas habilidades em programação, buscando novas oportunidades para aplicar seus conhecimentos em desenvolvimento.
+  </p>
+  
+
   <h2>Detalhes</h2>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
