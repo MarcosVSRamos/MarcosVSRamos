@@ -10,22 +10,24 @@
 
   <h2>Detalhes</h2>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarcosVSRamos">
     <img src="https://github-readme-stats.vercel.app/api?username=MarcosVSRamos&show_icons=true&theme=dark" alt="GitHub stats" />
   </a>
+
   
   <h2>Projetos</h2>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarcosVSRamos/clone_DisneyPlus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=clone_DisneyPlus&theme=dark" alt="Disney Plus Clone" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarcosVSRamos/exercicio-M21-terraria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=exercicio-M21-terraria&theme=dark" alt="Exercício Terraria" />
   </a>
+
   
   <h2>Linguagens mais usadas</h2>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/MarcosVSRamos">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVSRamos&layout=donut&theme=dark" alt="Linguagens mais usadas" />
   </a>
   
