@@ -33,7 +33,7 @@
   
   <h2>Contatos</h2>
 
-  <a href="https://www.linkedin.com/in/seu-usuario-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-vinicius-santos-ramos-506691339" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:santosramosmarcosvinicius@gmail.com">
