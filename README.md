@@ -19,7 +19,7 @@
   
   
   <a href="https://github.com/MarcosVSRamos/E-FOOD-M34">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=e_food_horizontal&theme=dark" alt="E-FOOD Página de Restaurantes" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=E-FOOD-M34&theme=dark" alt="E-FOOD Página de Restaurantes" />
   </a>
   <a href="https://github.com/MarcosVSRamos/exercicio-M21-terraria">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=exercicio-M21-terraria&theme=dark" alt="Exercício Terraria" />
