@@ -17,13 +17,8 @@
   
   <h2>Projetos</h2>
   
-  
-  <a href="https://github.com/MarcosVSRamos/E-FOOD-M34">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=E-FOOD-M34&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-  <a href="https://github.com/MarcosVSRamos/exercicio-M21-terraria">
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=exercicio-M21-terraria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=E-FOOD-M34&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosVSRamos&repo=exercicio-M21-terraria&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
   <h2>Linguagens mais usadas</h2>
